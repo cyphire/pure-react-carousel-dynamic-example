@@ -18,3 +18,5 @@ It is an UGLY example as it was ripped out of a much more complex web site!!!
 
 My use of it is a group of carousels, please contact me if you want a more robust example with multiple sections of each carousel.
 
+<img src="./example.jpg">
+
