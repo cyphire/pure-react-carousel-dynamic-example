@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+@import url("https://use.typekit.net/coo4nuj.css");
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  color: black;
+}
+
+.single-blog-post {
+	position: relative;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	margin-bottom: 30px;
+	color: black;
+  }
+  
+  .single-blog-post .blog-image {
+	position: relative;
+  }
+  
+  .single-blog-post .blog-image a {
+	display: block;
+  }
+  
+  .single-blog-post .blog-image .date {
+	position: absolute;
+	left: 20px;
+	bottom: -20px;
+	background: linear-gradient(135deg, #112EB0 0%, #5874EE 100%);  color: #1d1010;
+	padding: 8px 16px;
+	font-size: 13px;
+	border-radius: 50px;
+  }
+  
+  .single-blog-post .blog-image .date svg {
+	width: 15px;
+	margin-right: 3px;
+  }
+  
+  .single-blog-post .blog-post-content {
+	background: #f8f5fe;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	padding-top: 45px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	padding-right: 20px;
+	color: black;
+	font-size: 12px;
+  }
+  
+  .single-blog-post .blog-post-content h3 {
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 0;
+  }
+  
+  .single-blog-post .blog-post-content span {
+	display: block;
+	color: #0e314c;
+	margin: 15px 0;
+	text-transform: capitalize;
+  }
+  
+  .single-blog-post .blog-post-content span a {
+	color: #2c4459;
+	margin-left: 5px;
+  }
+  
+  .single-blog-post .blog-post-content span a:hover {
+	color: #112EB0;
+  }
+  
+  .single-blog-post .blog-post-content .read-more-btn {
+	color: #0e314c;
+	font-weight: 500;
+  }
+  
+  .single-blog-post .blog-post-content .read-more-btn svg {
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	width: 15px;
+  }
+  
+  .single-blog-post .blog-post-content .read-more-btn:hover {
+	color: #112EB0;
+  }
+  
+  .single-blog-post .blog-post-content .read-more-btn:hover svg {
+	margin-left: 5px;
+  }
+  
+  .single-blog-post:hover {
+	-webkit-box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
+	box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
+  }
+  
+  .single-blog-post:hover .blog-post-content {
+	background: #222222;
+  }
+
+  .repair-partner-area {
+	padding-top: 45px;
+	padding-bottom: 45px;
+  }
+  
+  ul {
+	 font-size: 14px; 
+  }
+  
